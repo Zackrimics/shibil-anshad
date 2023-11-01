@@ -1,0 +1,12 @@
+@font-face {
+    font-family: poppins-med;
+    src: url('/Fonts/Poppins-Medium.ttf');
+}
+@font-face {
+    font-family: 'futura';
+    src: url(/Fonts/Futura\ Bold\ font.ttf);
+}
+
+* {
+    font-family: poppins-med;
+}
